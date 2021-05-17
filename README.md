@@ -1,3 +1,3 @@
 # IMLP342
 This is NTUTRAIN IMLP course.<br>
-Hello 這是手動更改
+!(Day01)[https://github.com/NTUTRAIN/IMLP342/blob/main/Unit01_Crash%20Course%20on%20Python.ipynb]
